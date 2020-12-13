@@ -1,0 +1,12 @@
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/bin/Debug/netcoreapp3.1/CalculatorExample.deps.json
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/bin/Debug/netcoreapp3.1/CalculatorExample.runtimeconfig.json
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/bin/Debug/netcoreapp3.1/CalculatorExample.runtimeconfig.dev.json
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/bin/Debug/netcoreapp3.1/CalculatorExample.dll
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/bin/Debug/netcoreapp3.1/CalculatorExample.pdb
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.csprojAssemblyReference.cache
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.AssemblyInfoInputs.cache
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.AssemblyInfo.cs
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.csproj.CoreCompileInputs.cache
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.dll
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.pdb
+/Users/ahmedbizo/Desktop/CalculatorExample/CalculatorExample/obj/Debug/netcoreapp3.1/CalculatorExample.genruntimeconfig.cache
