@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Calculator
+namespace CalculatorExample
 {
 	/// <summary>
 	/// The calculator invoker class.
