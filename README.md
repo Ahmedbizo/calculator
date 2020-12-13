@@ -15,4 +15,7 @@ benifits
 
 
 1- you can sote commands, queue operations, log operations and implement undo and redo operation 
+
+
+
 2- you can change at runtime how a command is executedd wiout the client noticing 
