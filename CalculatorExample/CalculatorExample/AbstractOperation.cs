@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calculator
+namespace CalculatorExample
 {
 	/// <summary>
 	/// The abstract operation command class
