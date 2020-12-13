@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace Calculator
+namespace CalculatorExample
+
 {
 	/// <summary>
 	/// The MathLib receiver class.
